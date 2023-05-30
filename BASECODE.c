@@ -11,5 +11,5 @@
 #define         TASK_STK_SIZE    256      /* Size of each task's stacks (# of OS_STK)      */
 #define         MSG_QUEUE_SIZE   20
 
-OS_STK          TaskStartStk[TASK_STK_SIZE];   /*½ºÅÃ¿µ¿ª*/
+OS_STK          TaskStartStk[TASK_STK_SIZE];   /*Â½ÂºÃ…ÃƒÂ¿ÂµÂ¿Âª*/
 OS_STK          Task1Stk[TASK_STK_SIZE];       /* Task #1    task stack*/
